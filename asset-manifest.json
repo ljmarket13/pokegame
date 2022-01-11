@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ljmarket13/pokegame.git/static/css/main.9140df5b.css",
-    "main.js": "/ljmarket13/pokegame.git/static/js/main.f3cd7dda.js",
-    "index.html": "/ljmarket13/pokegame.git/index.html",
-    "main.9140df5b.css.map": "/ljmarket13/pokegame.git/static/css/main.9140df5b.css.map",
-    "main.f3cd7dda.js.map": "/ljmarket13/pokegame.git/static/js/main.f3cd7dda.js.map"
+    "main.css": "/pokegame/static/css/main.9140df5b.css",
+    "main.js": "/pokegame/static/js/main.f3cd7dda.js",
+    "index.html": "/pokegame/index.html",
+    "main.9140df5b.css.map": "/pokegame/static/css/main.9140df5b.css.map",
+    "main.f3cd7dda.js.map": "/pokegame/static/js/main.f3cd7dda.js.map"
   },
   "entrypoints": [
     "static/css/main.9140df5b.css",
